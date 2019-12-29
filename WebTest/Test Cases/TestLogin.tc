@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b3e7167-8e83-4ade-9675-cda6458a2bb1</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>afb4158e-4734-4f8a-a038-2048506f23a6</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'P9ET2sDE0SE='</defaultValue>
+      <description></description>
+      <id>326c1b22-7b18-44ce-b96e-e624747c1644</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
